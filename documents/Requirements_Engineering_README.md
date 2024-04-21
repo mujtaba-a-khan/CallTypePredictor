@@ -21,10 +21,10 @@ Each task related to the project is represented as a card within these lists. Ca
 
 Below is an image of the final Trello board used for the project:
 
-![Final Trello Board](link-to-your-trello-board-image.png)
+![Final Trello Board](../images/call-type-predictor-board.jpg)
 
 ## Link to Trello Board
 
-Visit the [Call Type Predictor Trello Board](https://trello.com/yourboardlink) to view it directly and explore the detailed setup.
+Visit the [Call Type Predictor Trello Board](https://trello.com/invite/b/4dBInp7Z/ATTI7c4cb40342488fcf2bb35c058cdbe76521940E9F/call-type-predictor-board) to view it directly and explore the detailed setup.
 
 ---
